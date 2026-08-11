@@ -1,0 +1,174 @@
+cv:
+  name: Malak Ait Tamlihat
+  label: Physicist
+  email: "malaktamlihat123@gmail.com"
+  webpage: "https://aittamlihat.github.io"
+  image: ""
+
+  summary: "Experimental particle researcher specializing in heavy-ion physics, light-by-light scattering, and searches for physics beyond the Standard Model with the ATLAS Collaboration."
+
+  social_networks:
+    - network: GitHub
+      username: aittamlihat
+
+    - network: LinkedIn
+      username: malak-ait-tamlihat-b3400b189
+
+  sections:
+
+    Education:
+
+      - institution: Mohammed V University
+        location: Rabat, Morocco
+        area: High Energy Physics
+        studyType: PhD
+        start_date: 2021
+        end_date: 2026-09
+        score: ""
+        courses: ""
+        highlights:
+          - "Thesis: New physics searches in light-by-light scattering with the ATLAS detector and development of a production database for the HL-LHC ATLAS High-Granularity Timing Detector."
+
+      - institution: Faculty of Science, Mohammed V University in Rabat
+        location: Rabat, Morocco
+        area: Matter and Radiation
+        studyType: M.Sc.
+        start_date: 2018
+        end_date: 2020
+        score: ""
+        courses: ""
+        highlights:
+          - "Graduated first in the class."
+
+      - institution: Sultan Moulay Slimane University
+        location: Beni Mellal, Morocco
+        area: Theoretical Physics
+        studyType: B.Sc.
+        start_date: 2015
+        end_date: 2018
+        score: ""
+        courses: ""
+        highlights:
+          - "Graduated first in the class."
+
+
+    Experience:
+
+      - company: ATLAS Collaboration
+        position: PhD Researcher / Lead Analyst
+        location:  Mohammed V University in Rabat
+        start_date: 2023
+        end_date: 2026
+        summary: "Experimental high-energy physics research in ultra-peripheral heavy-ion collisions, light-by-light scattering, and searches for physics beyond the Standard Model."
+        highlights:
+          - "Main analysis contact and lead analyst for an ATLAS Run 3 heavy-ion physics analysis."
+          - "Leading the measurement of light-by-light scattering and searches for axion-like particles and massive gravitons."
+          - "Developed analysis methods for photon reconstruction, photon identification, and  backgrounds estimation"
+          - "Prepared and produced Monte Carlo samples and developed the analysis software framework."
+          - "Contributed to detector calibration and performance studies."
+          - "Designed and implemented statistical methods to extract constraints on new physics models."
+          - "Coordinate analysis activities and lead the preparation of results for ATLAS meetings, conferences, and publications."
+
+
+      - company: Phenomenology Research
+        position: Phenomenology Researcher
+        location:  Mohammed V University in Rabat
+        start_date: 2023
+        end_date: 2026
+        summary: "Phenomenological studies of physics beyond the Standard Model using light-by-light scattering."
+        highlights:
+          - "Main author of two refereed publications on massive gravitons and extra-dimensional excitations."
+          - "Proposed research ideas and developed them into phenomenological studies with collaborators."
+          - "Implemented theoretical models in Monte Carlo event generators and produced dedicated event samples."
+          - "Performed phenomenological analyses and statistical interpretations."
+          - "Produced publication-quality figures and contributed to manuscript preparation."
+
+
+      - company: ATLAS Collaboration
+        position: Physics Analyst
+        location:  Mohammed V University in Rabat
+        start_date: 2022
+        end_date: 2023
+        summary: "Reinterpretation of an ATLAS search for high-mass resonances in photon plus missing transverse momentum final states."
+        highlights:
+          - "Developed an analysis workflow to reinterpret existing ATLAS results in additional new physics scenarios."
+
+
+      - company: ATLAS Collaboration
+        position: HGTD Production Database Developer
+        location: Mohammed V University in Rabat
+        start_date: 2021
+        end_date: 2022
+        summary: "Development of production database and web tools for the ATLAS High-Granularity Timing Detector (HGTD)"
+        highlights:
+          - "Developed the initial MySQL production database for HGTD component data."
+          - "Developed web-based tools for detector production tracking and data management."
+
+    Awards:
+
+      - title: "L'Oréal–UNESCO For Women in Science Maghreb Young Talents Programme"
+        authors:
+          - "L'Oréal Foundation and UNESCO"
+        date: 2024
+        awarder: "L'Oréal Foundation and UNESCO"
+        url: "https://familleactuelle.ma/cinq-chercheuses-maghrebines-recompensees-par-le-prix-loreal-unesco-pour-les-femmes-et-la-science/"
+        summary: "Winner of the 18th L'Oréal–UNESCO For Women in Science Maghreb Young Talents Programme. One of five laureates selected across the Maghreb in recognition of outstanding scientific excellence among early-career women researchers."
+
+
+      - title: "Morocco Youth Prize for Scientific Research"
+        authors:
+          - "Moroccan Ministry of Youth, Culture, and Communication"
+        date: 2024
+        awarder: "Moroccan Ministry of Youth, Culture, and Communication"
+        url: "https://mjcc.gov.ma/fr/rabat-ceremonie-en-lhonneur-des-laureats-du-prix-maroc-jeunesse/"
+        summary: "First Prize awarded in recognition of outstanding scientific achievements by young researchers."
+
+
+    Skills:
+
+      - name: Computing
+        icon: fa-solid fa-code
+        keywords: "C++, Python, ROOT, PyROOT, MySQL, PHP, HTML, CSS, JavaScript"
+
+      - name: Data Analysis
+        icon: fa-solid fa-chart-line
+        keywords: "Statistical Analysis, Monte Carlo Simulation, Machine Learning"
+
+      - name: Frameworks & Operating Systems
+        icon: fa-solid fa-screwdriver-wrench
+        keywords: "Git, GitLab, Jupyter, Linux, macOS, Windows"
+
+
+    Languages:
+
+      - name: Arabic
+        summary: "Native speaker"
+
+      - name: English
+        summary: "Fluent"
+
+      - name: French
+        summary: "Fluent"
+
+
+    Interests:
+
+      - name: Research Interests
+        icon: fa-solid fa-atom
+        keywords: "Precision Collider Measurements, Detector Reconstruction and Performance, Machine Learning for Particle Physics, Collider Phenomenology, Monte Carlo Generation, Scientific Computing"
+
+      - name: Reading
+        icon: fa-solid fa-book
+        keywords: "Books and scientific literature"
+
+      - name: Sports
+        icon: fa-solid fa-basketball
+        keywords: "Basketball and Swimming"
+
+      - name: Traveling
+        icon: fa-solid fa-plane
+        keywords: "Travel and cultural discovery"
+
+      - name: Volunteer Tutoring
+        icon: fa-solid fa-graduation-cap
+        keywords: "Volunteer tutoring for high-school students"
