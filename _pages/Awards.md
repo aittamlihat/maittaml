@@ -16,9 +16,7 @@ calendar: true
   <p><strong>Co-recipient as a member of the ATLAS Collaboration</strong></p>
 
   <p>
-    Awarded to the ATLAS, CMS, ALICE and LHCb Collaborations at CERN
-    for their detailed measurements of Higgs boson properties,
-    confirming the symmetry-breaking mechanism of mass generation.
+     Awarded to the LHC Collaborations at CERN ``For the detailed measurementsof Higgs boson properties confirming the symmetry-breaking mechanism of mass generation ..[]''
   </p>
 
   <p>
