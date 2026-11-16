@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Awards
@@ -6,31 +7,31 @@ nav: true
 nav_order: 6
 calendar: true
 ---
-<div style="display: flex; align-items: center; margin-bottom: 60px;">
 
- <div style="display: flex; align-items: center; margin-bottom: 60px;">
+<!-- Breakthrough Prize -->
+<div style="margin-bottom: 60px;">
 
-  <div style="width: 70%; padding-right: 80px;">
+  <h2>🏆 Breakthrough Prize in Fundamental Physics (2025)</h2>
 
-    <h2>🏆 Breakthrough Prize in Fundamental Physics (2025)</h2>
+  <p><strong>Co-recipient as a member of the ATLAS Collaboration</strong></p>
 
-    <p><strong>Co-recipient as a member of the ATLAS Collaboration</strong></p>
+  <p>
+    Awarded to the ATLAS, CMS, ALICE and LHCb Collaborations at CERN
+    for their detailed measurements of Higgs boson properties,
+    confirming the symmetry-breaking mechanism of mass generation.
+  </p>
 
-    <p>
-      Awarded to the ATLAS, CMS, ALICE and LHCb Collaborations at CERN
-      for their detailed measurements of Higgs boson properties,
-      confirming the symmetry-breaking mechanism of mass generation.
-    </p>
-
-    <p>
-      <a href="https://breakthroughprize.org/" target="_blank">
-        Official announcement
-      </a>
-    </p>
-
-  </div>
+  <p>
+    <a href="https://breakthroughprize.org/" target="_blank">
+      Official announcement
+    </a>
+  </p>
 
 </div>
+
+
+<!-- Morocco Youth Prize -->
+<div style="display: flex; align-items: center; margin-bottom: 60px;">
 
   <div style="width: 70%; padding-right: 80px;">
 
@@ -45,7 +46,6 @@ calendar: true
     </p>
 
     <p>
-      <strong></strong>
       <a href="https://mjcc.gov.ma/fr/rabat-ceremonie-en-lhonneur-des-laureats-du-prix-maroc-jeunesse/"
          target="_blank">
         Official announcement
@@ -67,6 +67,7 @@ calendar: true
 </div>
 
 
+<!-- L'Oréal–UNESCO Award -->
 <div style="display: flex; align-items: center; margin-bottom: 60px;">
 
   <div style="width: 70%; padding-right: 80px;">
@@ -82,7 +83,6 @@ calendar: true
     </p>
 
     <p>
-      <strong></strong>
       <a href="https://familleactuelle.ma/cinq-chercheuses-maghrebines-recompensees-par-le-prix-loreal-unesco-pour-les-femmes-et-la-science/"
          target="_blank">
         Official announcement
@@ -90,7 +90,6 @@ calendar: true
     </p>
 
   </div>
-  
 
   <div style="width: 30%; text-align: center;">
 
