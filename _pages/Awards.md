@@ -11,22 +11,23 @@ calendar: true
 <!-- Breakthrough Prize -->
 <div style="display: flex; align-items: center; margin-bottom: 60px;">
 
- <div style="display: flex; align-items: center; margin-bottom: 60px;">
-    <div style="margin-bottom: 60px;">
+  <div style="width: 100%;">
 
-  <h2>🏆 Breakthrough Prize in Fundamental Physics (2025)</h2>
+    <h2>🏆 Breakthrough Prize in Fundamental Physics (2025)</h2>
 
-  <p><strong>Co-recipient as a member of the ATLAS Collaboration</strong></p>
+    <p><strong>Co-recipient as a member of the ATLAS Collaboration</strong></p>
 
-  <p>
-     Awarded to the LHC Collaborations at CERN ``For the detailed measurementsof Higgs boson properties confirming the symmetry-breaking mechanism of mass generation ..[]''
-  </p>
+    <p>
+      Awarded to the LHC Collaborations at CERN, For the detailed measurementsof Higgs boson properties confirming the symmetry breaking mechanism of mass generation ..[]
+    </p>
 
-  <p>
-    <a href="https://breakthroughprize.org/" target="_blank">
-      Official announcement
-    </a>
-  </p>
+    <p>
+      <a href="https://breakthroughprize.org/" target="_blank">
+        Official announcement
+      </a>
+    </p>
+
+  </div>
 
 </div>
 
