@@ -67,12 +67,12 @@ calendar: true
 
   </div>
 
-  <div style="width: 30%; text-align: center;">
+  <div style="width: 50%; text-align: center;">
 
     {% include figure.liquid
       path="assets/img/loreal-unesco.webp"
       class="img-fluid rounded z-depth-1"
-      width="500px"
+      width="800px"
     %}
 
   </div>
