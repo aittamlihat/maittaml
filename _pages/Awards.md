@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 calendar: true
 ---
-
-<!-- Breakthrough Prize -->
 <div style="display: flex; align-items: center; margin-bottom: 60px;">
 
   <div style="width: 100%;">
