@@ -76,5 +76,25 @@ calendar: true
     %}
 
   </div>
+  <div style="width: 70%; padding-right: 80px;">
+
+    <h2>Breakthrough Prize in Fundamental Physics (2025</h2>
+
+    <p><strong>Co-recipient as a member of the ATLAS Collaboration</strong></p>
+
+    <p>
+      Awarded to the LHC Collaborations at CERN ``For the detailed measurementsof Higgs boson properties confirming the symmetry-breaking mechanism of mass generation ..[]''
+    </p>
+
+    <p>
+      <strong></strong>
+      <a href="https://breakthroughprize.org/"
+         target="_blank">
+        Official announcement
+      </a>
+    </p>
+
+  </div>
+
 
 </div>
