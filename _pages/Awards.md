@@ -68,16 +68,6 @@ calendar: true
 
   </div>
 
- % <div style="width: 50%; text-align: center;">
-
-    {% include figure.liquid
-     % path="assets/img/loreal-unesco.webp"
-     % class="img-fluid rounded z-depth-1"
-      %width="400px"
-    %}
-
-  %</div>
-
   
   
   <div style="display: flex; align-items: center; margin-top: 0px; margin-bottom: 60px;">
