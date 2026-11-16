@@ -45,7 +45,7 @@ calendar: true
 
 <div style="display: flex; align-items: center; margin-bottom: 60px;">
 
-  <div style="width: 70%; padding-right: 80px;">
+  <div style="width: 50%; padding-right: 30px;">
  
 
     <h2>🏆 L'Oréal–UNESCO For Women in Science Maghreb Young Talents Programme (2024)</h2>
@@ -73,14 +73,14 @@ calendar: true
     {% include figure.liquid
       path="assets/img/loreal-unesco.webp"
       class="img-fluid rounded z-depth-1"
-      width="800px"
+      width="400px"
     %}
 
   </div>
 
   
   
-  <div style="display: flex; align-items: center; margin-top: 100px; margin-bottom: 60px;">
+  <div style="display: flex; align-items: center; margin-top: 0px; margin-bottom: 60px;">
 
      <div style="width: 100%;">
 
