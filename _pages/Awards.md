@@ -46,6 +46,7 @@ calendar: true
 <div style="display: flex; align-items: center; margin-bottom: 60px;">
 
   <div style="width: 70%; padding-right: 80px;">
+ 
 
     <h2>🏆 L'Oréal–UNESCO For Women in Science Maghreb Young Talents Programme (2024)</h2>
 
@@ -79,16 +80,16 @@ calendar: true
 
   
   
-  <div style="display: flex; align-items: center; margin-top: 80px; margin-bottom: 60px;">
+  <div style="display: flex; align-items: center; margin-top: 100px; margin-bottom: 60px;">
 
      <div style="width: 100%;">
 
-    <h2>Breakthrough Prize in Fundamental Physics (2025</h2>
+    <h2>Breakthrough Prize in Fundamental Physics (2025)</h2>
 
     <p><strong>Co-recipient as a member of the ATLAS Collaboration</strong></p>
 
     <p>
-      Awarded to the LHC Collaborations at CERN ``For the detailed measurementsof Higgs boson properties confirming the symmetry-breaking mechanism of mass generation ..[]''
+      Awarded to the LHC Collaborations at CERN ``For the detailed measurements of Higgs boson properties confirming the symmetry-breaking mechanism of mass generation ..[]''
     </p>
 
     <p>
