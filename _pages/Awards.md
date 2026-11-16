@@ -45,7 +45,7 @@ calendar: true
 
 <div style="display: flex; align-items: center; margin-bottom: 60px;">
 
-  <div style="width: 50%; padding-right: 30px;">
+  <div style="width: 70%; padding-right: 80px;">
  
 
     <h2>🏆 L'Oréal–UNESCO For Women in Science Maghreb Young Talents Programme (2024)</h2>
@@ -70,9 +70,9 @@ calendar: true
 
   
   
-  <div style="display: flex; align-items: center; margin-top: 0px; margin-bottom: 60px;">
+  <div style="display: flex; align-items: center; margin-bottom: 60px;">
 
-     <div style="width: 100%;">
+    <div style="width: 70%; padding-right: 80px;">
 
     <h2>Breakthrough Prize in Fundamental Physics (2025)</h2>
 
