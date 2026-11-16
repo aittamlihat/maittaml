@@ -6,6 +6,7 @@ nav: true
 nav_order: 6
 calendar: true
 ---
+
 <div style="display: flex; align-items: center; margin-bottom: 60px;">
 
   <div style="width: 70%; padding-right: 80px;">
@@ -46,7 +47,6 @@ calendar: true
 <div style="display: flex; align-items: center; margin-bottom: 60px;">
 
   <div style="width: 70%; padding-right: 80px;">
- 
 
     <h2>🏆 L'Oréal–UNESCO For Women in Science Maghreb Young Talents Programme (2024)</h2>
 
@@ -68,11 +68,12 @@ calendar: true
 
   </div>
 
-  
-  
-  <div style="display: flex; align-items: center; margin-bottom: 60px;">
+</div>
 
-    <div style="width: 70%; padding-right: 80px;">
+
+<div style="display: flex; align-items: center; margin-bottom: 60px;">
+
+  <div style="width: 70%; padding-right: 80px;">
 
     <h2>Breakthrough Prize in Fundamental Physics (2025)</h2>
 
@@ -92,5 +93,5 @@ calendar: true
 
   </div>
 
-
 </div>
+
