@@ -76,8 +76,12 @@ calendar: true
     %}
 
   </div>
+
   
-  <div style="width: 80%; padding-right: 80px;">
+  
+  <div style="display: flex; align-items: center; margin-top: 80px; margin-bottom: 60px;">
+
+     <div style="width: 100%;">
 
     <h2>Breakthrough Prize in Fundamental Physics (2025</h2>
 
