@@ -9,7 +9,10 @@ calendar: true
 ---
 
 <!-- Breakthrough Prize -->
-<div style="margin-bottom: 60px;">
+<div style="display: flex; align-items: center; margin-bottom: 60px;">
+
+ <div style="display: flex; align-items: center; margin-bottom: 60px;">
+    <div style="margin-bottom: 60px;">
 
   <h2>🏆 Breakthrough Prize in Fundamental Physics (2025)</h2>
 
