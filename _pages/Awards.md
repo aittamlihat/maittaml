@@ -8,6 +8,30 @@ calendar: true
 ---
 <div style="display: flex; align-items: center; margin-bottom: 60px;">
 
+ <div style="display: flex; align-items: center; margin-bottom: 60px;">
+
+  <div style="width: 70%; padding-right: 80px;">
+
+    <h2>🏆 Breakthrough Prize in Fundamental Physics (2025)</h2>
+
+    <p><strong>Co-recipient as a member of the ATLAS Collaboration</strong></p>
+
+    <p>
+      Awarded to the ATLAS, CMS, ALICE and LHCb Collaborations at CERN
+      for their detailed measurements of Higgs boson properties,
+      confirming the symmetry-breaking mechanism of mass generation.
+    </p>
+
+    <p>
+      <a href="https://breakthroughprize.org/" target="_blank">
+        Official announcement
+      </a>
+    </p>
+
+  </div>
+
+</div>
+
   <div style="width: 70%; padding-right: 80px;">
 
     <h2>🥇 Morocco Youth Prize for Scientific Research (2024)</h2>
@@ -66,6 +90,7 @@ calendar: true
     </p>
 
   </div>
+  
 
   <div style="width: 30%; text-align: center;">
 
